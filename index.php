@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -11,14 +10,14 @@
 <body>
 <header>
 		<div id="logo_box">
-			<a href="index.html"><img src="images/Background.png" id="logo" title="Galaxy logo" alt="Logo"></a>
+			<a href="index.php"><img src="images/Background.png" id="logo" title="Galaxy logo" alt="Logo"></a>
 		</div>
 		<nav class="main-navigation" id="header-nav">
 			<!--<h2>Main navigation</h2>-->
 			<ul>
 				<li><a href="#" title="Home">Home</a></li>
 				<li><a href="#" title="Home">Astronauts</a></li>
-				<li><a href="html/star_dash.html" title="Click to play Game">contest</a></li>
+				<li><a href="html/star_dash.php" title="Click to play Game">contest</a></li>
 				<li><a href="#" title="Home">Contact</a></li>
 			</ul>
 		</nav>

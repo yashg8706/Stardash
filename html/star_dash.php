@@ -22,7 +22,7 @@
           <source src="../audio/winner_sound1.mp3" type="audio/mpeg">  
         </audio>
       </div>
-      <a href="../index.html"><img src="../images/logo.jpeg" alt="STAR DASH" id="logo" title="STAR DASH"></a>
+      <a href="../index.php"><img src="../images/logo.jpeg" alt="STAR DASH" id="logo" title="STAR DASH"></a>
         <div id="game_ins">
             <h1>Speed To Win</h1>
             <p id="instruction">
