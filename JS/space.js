@@ -26,7 +26,7 @@ function space(){
 
 }
 function starDash(){
-	window.location="html/star_dash.html";
+	window.location="html/star_dash.php";
 }
 function metoroid(){
 	document.getElementById("metoroids").style.display="block";

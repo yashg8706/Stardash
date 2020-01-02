@@ -25,7 +25,7 @@ function gameLoop()
             retry.onclick=reload;
 
             function reload(){
-                window.location="../html/star_dash.html";
+                window.location="../html/star_dash.php";
             }
 
             function game_prep(){
@@ -53,7 +53,7 @@ function gameLoop()
                 retry.style.display="block";
                 back.style.display="block";
                 back.onclick=function(){
-                    window.location="../index.html";
+                    window.location="../index.php";
                 }
             }
             else if(timeleft<=0)
@@ -67,7 +67,7 @@ function gameLoop()
                 back.style.display="block";
                 document.getElementById("dialogue").style.display="none";
                 back.onclick=function(){
-                    window.location="../index.html";
+                    window.location="../index.php";
                 }
             }
             else if(timeleft <=15 && timeleft > 1)
